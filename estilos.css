@@ -1,0 +1,36 @@
+BODY {
+    color:rgb(57, 199, 52);
+    font-family: Arial;
+    margin: 5%;
+    font-size: 20px;
+ }
+ 
+ P {
+    color:rgb(120, 50, 251); 
+    font-size:50px;
+    font-family:Courier;
+    font-weight:bold;
+    line-height:30px;
+    letter-spacing:5px;
+    text-align:center;
+    text-indent:30px;
+   }
+ 
+ table{
+    background-color: rgb(196, 255, 250);
+    border: rgb(0, 0, 0) 5px solid;
+ }
+ 
+ td {
+    border: rgb(0, 0, 0) 2.5px solid;
+    font-size: 20px;
+    font-weight:bold;
+ }
+ a{
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 25px;
+ }
+ h2{
+    color: rgb(183, 12, 251);
+ }
